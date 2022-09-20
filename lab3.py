@@ -5,7 +5,6 @@
 # Course: IC-8046 Introduction to Pattern Recognition
 
 # Necessary imports
-import imp
 import cv2
 import pathlib
 import math
